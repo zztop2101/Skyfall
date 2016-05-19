@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="32" height="25" tilewidth="25" tileheight="25" nextobjectid="1">
+ <tileset firstgid="1" name="Tileset" tilewidth="25" tileheight="25" tilecount="64" columns="8">
+  <image source="../../../Dungeon/core/assets/tileSet1.png" width="200" height="200"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="32" height="25">
+  <data encoding="base64" compression="zlib">
+   eJzjZmBg4KYhFkTDtLRr1H7y7OekIUa3H1lu1P5R+wfafnR5QnjUfvrGPz3sl8SBR4r96Hrw2U8pHrV/aNtPavrDh0ftHxz2D2T7FQBjCiXj
+  </data>
+ </layer>
+</map>
